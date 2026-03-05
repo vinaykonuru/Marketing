@@ -1,0 +1,54 @@
+{
+  "date": "February 19, 2026",
+  "linkedin_posts": [
+    {
+      "post": "Marc Andreessen is calling for a \"Space Age Renaissance\" — and I'm all for the ambition. But renaissance requires infrastructure, not just vision. This week's GAO report on the Sentinel ICBM program is a case study in what happens when we let physical plant decay: software delays are now compounding on top of a requirement to replace over 600 facilities across five states. Meanwhile, Eric Berger is flagging that NASA can't even coordinate across buildings while planning Moon missions. We have a pattern here. The US keeps announcing flagship programs — next-gen ICBMs, lunar return, hypersonics — while the ground systems, fabrication shops, and test infrastructure underneath them are 40-60 years old. You cannot run 21st-century defense programs on Cold War-era facilities. Distributed manufacturing isn't a buzzword. It's the prerequisite. Until we treat facility modernization and regional production capacity as first-order national security investments — not line items to defer — we'll keep watching schedules slip and costs balloon. The renaissance starts on the shop floor. #Aerospace #DefenseManufacturing #Infrastructure",
+      "source_signal": "Andreessen's Space Age Renaissance call + GAO Sentinel facility replacement report + Berger's NASA coordination dysfunction",
+      "source_urls": [
+        "https://x.com/pmarca/status/2024322781819928580",
+        "https://www.defensenews.com/news/pentagon-congress/2026/02/18/sentinel-icbm-program-hit-by-software-delays-minuteman-extension-risks-gao/",
+        "https://x.com/SciGuySpace/status/2024519673602036171"
+      ]
+    },
+    {
+      "post": "When Palmer Luckey is pointing out that a single city's education department outspends an entire G7 nation, the real question isn't just about waste — it's about where American capital actually flows. Consider this contrast: Heron Power just raised $140M to modernize electrical transformer manufacturing because the US faces a nationwide shortage of a component so basic the grid literally cannot function without it. At the same time, Silicon Valley companies are building an entirely parallel private power grid just to keep data centers online. We are simultaneously unable to produce enough transformers for the public grid and spending billions to route around that grid entirely. That's not innovation — that's a symptom of decades of underinvestment in basic energy infrastructure. The fix isn't picking winners between AI and the grid. It's scaling domestic manufacturing of the foundational hardware — transformers, switchgear, conductors — that both need. Capital is available. What's missing is production capacity. #EnergyInfrastructure #Manufacturing #GridModernization",
+      "source_signal": "Palmer Luckey's spending inefficiency point + Heron Power transformer raise + WaPo shadow power grid story",
+      "source_urls": [
+        "https://x.com/PalmerLuckey/status/2024330948553375916",
+        "https://www.canarymedia.com/articles/climatetech-finance/heron-power-raises-140m-electrical-transformers",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2kzMXlCNDZ0ZnRPS3YwaXBuOXhyek0xVGlYdUxfSTUyUW1TMHZhMnF2bEh6NWJBTWI4TS12N3Z6ZGJPMjNoZ1RhNTJpNFpHX0RYMTRjLTlOYTZad1FocGRpVzlUSFRwUG9JQVE5d19VSnBsRTVyc25yWlkzbTFMVXRyOUw?oc=5"
+      ]
+    },
+    {
+      "post": "Eric Schmidt raised an important question this week: what happens when scaling AI models hits capital constraints and companies have to differentiate on something other than sheer compute? The same logic applies to aerospace and defense manufacturing right now. Northrop Grumman's CEO just said the company won't seek direct DoD investment for solid rocket motor production — but acknowledged suppliers further down the chain may need government support. This is the real bottleneck. Primes can self-fund at scale. Tier 2 and Tier 3 suppliers — the shops doing specialty welding, precision machining, energetics handling — often cannot. Agile Space Industries closing an oversubscribed $17M Series A for in-space propulsion shows private capital will flow to manufacturing when the unit economics are clear. But most defense suppliers don't have that luxury. If we're serious about scaling the industrial base for both commercial space and national security, we need financing mechanisms that reach the sub-tier. The constraint isn't demand. It's distributed production capacity at the supplier level. #DefenseIndustrial #SpaceManufacturing #SupplyChain",
+      "source_signal": "Schmidt's capital constraints framing + Northrop solid rocket motor supplier needs + Agile Space Series A",
+      "source_urls": [
+        "https://x.com/ericschmidt/status/2024170800153030810",
+        "https://breakingdefense.com/2026/02/northrop-not-seeking-direct-dod-investment-for-solid-rocket-motors-but-suppliers-might-ceo/",
+        "https://spacenews.com/agile-space-industries-oversubscribed-17m-series-a-accelerates-growth-of-in-space-propulsion-capabilities/"
+      ]
+    }
+  ],
+  "twitter_posts": [
+    {
+      "post": "Sentinel ICBM program needs 600+ facilities replaced across 5 states. Software is delayed. And we wonder why schedule and cost keep slipping — you can't run next-gen deterrence on Cold War infrastructure. #DefenseManufacturing",
+      "char_count": 226,
+      "source_signal": "GAO Sentinel ICBM facility replacement and software delays"
+    },
+    {
+      "post": "The US can't make enough electrical transformers for its own grid. Heron Power just raised $140M to fix that. Meanwhile tech companies are building a private parallel grid for data centers. We have a manufacturing problem. #Infrastructure",
+      "char_count": 238,
+      "source_signal": "Heron Power raise + WaPo shadow grid story"
+    },
+    {
+      "post": "Northrop says it won't need DoD money for solid rocket motors — but its suppliers might. That one sentence tells you everything about where the US industrial base is actually fragile. #DefenseIndustrial",
+      "char_count": 202,
+      "source_signal": "Northrop Grumman CEO on supplier-level investment needs"
+    },
+    {
+      "post": "Airbus is revising production targets down. ATR is adding an assembly line but can't fill it. Both problems trace to the same root: not enough qualified suppliers with capacity. Demand isn't the constraint. #Aerospace",
+      "char_count": 217,
+      "source_signal": "Airbus production target revision + ATR supply chain constraints"
+    }
+  ]
+}

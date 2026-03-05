@@ -1,0 +1,56 @@
+{
+  "date": "February 20, 2026",
+  "linkedin_posts": [
+    {
+      "post": "Eric Berger is highlighting something genuinely unusual this week — NASA releasing a candid internal accountability report on Starliner instead of burying it. That kind of honesty about program execution is rare. And it matters more than people realize, because the hardware side of our space infrastructure is where the real bottleneck lives.\n\nCase in point: Boeing just opened a new El Segundo facility specifically to scale production of missile-tracking sensors for the Millennium satellite constellation. That's not a PowerPoint — that's brick, steel, and clean rooms being stood up because we cannot meet national security demand with existing capacity. Meanwhile NASA just completed its second Artemis 2 wet dress rehearsal, finally clearing the hydrogen leak issues that plagued the first attempt. Cryogenic ground systems are unforgiving. Every fueling test is a reminder that launch infrastructure requires physical precision at industrial scale.\n\nThe throughline is simple: whether it's satellite sensors, launch pad plumbing, or spacecraft programs, the constraint isn't ideas — it's production infrastructure. We need more facilities, more tooling, more workforce pipelines. The factories are the mission. #AerospaceManufacturing #SpaceInfrastructure #DistributedManufacturing",
+      "source_signal": "Eric Berger's tweets on NASA accountability (T6/T7) paired with Boeing sensor facility (N1) and Artemis 2 fueling (N8)",
+      "source_urls": [
+        "https://x.com/SciGuySpace/status/2024607909535952998",
+        "https://x.com/SciGuySpace/status/2024561725039669385",
+        "https://spacenews.com/boeing-to-boost-production-of-missile-tracking-sensors-for-military-satellites/",
+        "https://spacenews.com/nasa-completes-second-artemis-2-fueling-test/"
+      ]
+    },
+    {
+      "post": "Sam Altman is in India this week talking about Codex growing 4x in two weeks. That kind of software scaling is impressive — and it throws into sharp relief how badly we're losing the race on physical production scaling where it counts most.\n\nNew IISS data shows China launched 10 submarines totaling 79,000 tonnes between 2021 and 2025, outpacing U.S. production rates. At the same time, the U.S. Navy just tapped Italian shipbuilder Fincantieri to build Marine Corps landing vessels — because we don't have enough domestic shipyard capacity to meet demand. Let that sink in. We're outsourcing military vessel construction to allied foreign yards while a near-peer competitor is out-building us on nuclear submarines.\n\nSoftware scales with servers. Ships scale with welders, dry docks, and steel plate. The U.S. needs a distributed manufacturing strategy for defense production the same way we're building one for AI compute. The industrial base is a national security asset, and right now it's undersized for the threat environment. #DefenseIndustrial #Manufacturing #NationalSecurity",
+      "source_signal": "Sam Altman's India/scaling tweet (T2) contrasted with China submarine production (N3) and Fincantieri Navy contract (N6)",
+      "source_urls": [
+        "https://x.com/sama/status/2024826822060290508",
+        "https://breakingdefense.com/2026/02/china-building-more-nuclear-subs-than-america-iiss-report/",
+        "https://www.defensenews.com/naval/2026/02/20/us-navy-taps-fincantieri-to-build-marine-corps-landing-vessels/"
+      ]
+    },
+    {
+      "post": "The IEA just featured fusion energy in its 2026 State of Energy Innovation report — the first time it's gotten that level of institutional recognition alongside solar, batteries, and hydrogen. This matters because it signals that policymakers are starting to take fusion timelines seriously, which means the industrial planning needs to start now.\n\nAnd that planning is enormous. SoftBank is betting $33 billion on a single gas-fired power plant to feed AI demand. FirstEnergy just raised its five-year capex plan 30% to $36 billion, mostly for transmission buildout. These are staggering numbers for conventional energy infrastructure. Now imagine the cryogenic systems, superconducting magnet supply chains, and specialized vacuum vessels that fusion deployment will require at scale.\n\nWhen Chamath shares investment theses without commentary, it's because the numbers speak for themselves. The energy buildout thesis is that obvious. But fusion infrastructure — helium systems, cryostats, precision manufacturing — doesn't exist at production scale yet. Whoever builds the distributed manufacturing base for fusion components has a decade-long head start. The time to break ground is now. #FusionEnergy #EnergyInfrastructure #CryogenicSystems",
+      "source_signal": "IEA fusion report (N5), SoftBank energy investment (N2), FirstEnergy capex (N4), Chamath's signal (T8)",
+      "source_urls": [
+        "https://x.com/chamath/status/2024542359611134253",
+        "https://www.fusionindustryassociation.org/iea-features-fusion-in-state-of-energy-innovation-2026-report/?utm_source=rss&utm_medium=rss&utm_campaign=iea-features-fusion-in-state-of-energy-innovation-2026-report",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2ZzTHYzOWZCN09ZWTNpYkFYM1dLeEFKQjljR0E5OEFwMVBBRlNqX0pqQ3pnZnFmNWI3REdwcWxDME5VTjIwTmNNXzF4eDNqY2hEcktjbmZmNDV6MlJmOGZIb1Itams2XzFUNS1xZDAyU21KV0lHa1BJWjN4S1Y2VWlwQXkwYlllSGRGRnVvYVU?oc=5",
+        "https://www.utilitydive.com/news/firstenergy-capex-transmission-doe-gas-plant-earnings/812548/"
+      ]
+    }
+  ],
+  "twitter_posts": [
+    {
+      "post": "China: 10 submarines, 79,000 tonnes, 2021–2025. US: just hired an Italian shipbuilder for Marine Corps landing craft. The industrial base gap isn't theoretical anymore. #DefenseManufacturing",
+      "char_count": 190,
+      "source_signal": "China submarine production rate (N3) and Fincantieri contract (N6)"
+    },
+    {
+      "post": "SoftBank: $33B for one gas plant. FirstEnergy: $36B capex, up 30%. Now imagine what fusion deployment infrastructure costs. The cryogenic supply chain doesn't exist at scale yet. #FusionEnergy",
+      "char_count": 192,
+      "source_signal": "SoftBank gas plant (N2) and FirstEnergy capex (N4) and IEA fusion report (N5)"
+    },
+    {
+      "post": "Boeing stood up a new El Segundo facility for missile-tracking satellite sensors. Not a contract announcement — an actual factory. That's the real bottleneck: production capacity. #AerospaceManufacturing",
+      "char_count": 203,
+      "source_signal": "Boeing sensor production facility (N1)"
+    },
+    {
+      "post": "Artemis 2 finally cleared a clean fueling test — no hydrogen leaks this time. Cryogenic ground infrastructure is brutally unforgiving. There's no shortcut to scaling it. #SpaceInfrastructure",
+      "char_count": 190,
+      "source_signal": "NASA Artemis 2 wet dress rehearsal (N8)"
+    }
+  ]
+}

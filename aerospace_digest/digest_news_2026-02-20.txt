@@ -1,0 +1,66 @@
+AEROSPACE MANUFACTURING DIGEST — February 20, 2026
+Narrative: We need to scale distributed manufacturing to support innovation and development in the US — ground systems infrastructure for aerospace, basic energy infrastructure, and cryogenic infrastructure for fusion and advanced energy.
+==============================================================
+
+1. Boeing to boost production of missile-tracking sensors for military satellites
+   Source : Space News  |  Relevance: 9/10
+   Link   : https://spacenews.com/boeing-to-boost-production-of-missile-tracking-sensors-for-military-satellites/
+   Summary: Boeing opened a new El Segundo facility to increase production of missile-tracking sensors for Millennium military satellites.
+   Caption: Boeing scaling sensor production for missile-warning satellites is exactly the kind of defense manufacturing capacity expansion the US needs more of. New facilities, new production lines, real hardware. #AerospaceMfg #DefenseIndustry #SpaceDefense
+
+2. SoftBank bets $33B on massive U.S. gas plant for AI boom - The Tech Buzz
+   Source : The Tech Buzz  |  Relevance: 8/10
+   Link   : https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2ZzTHYzOWZCN09ZWTNpYkFYM1dLeEFKQjljR0E5OEFwMVBBRlNqX0pqQ3pnZnFmNWI3REdwcWxDME5VTjIwTmNNXzF4eDNqY2hEcktjbmZmNDV6MlJmOGZIb1Itams2XzFUNS1xZDAyU21KV0lHa1BJWjN4S1Y2VWlwQXkwYlllSGRGRnVvYVU?oc=5
+   Summary: SoftBank plans a $33 billion investment in a massive U.S. gas-fired power plant to meet surging AI energy demand.
+   Caption: $33B into a single US power plant. AI demand is forcing the conversation we should have been having all along: you can't run an advanced industrial economy without massive baseload energy infrastructure. #EnergyInfrastructure #USManufacturing #IndustrialBase
+
+3. China’s nuclear submarine production rate surpasses that of US: Report
+   Source : Breaking Defense  |  Relevance: 8/10
+   Link   : https://breakingdefense.com/2026/02/china-building-more-nuclear-subs-than-america-iiss-report/
+   Summary: China launched 10 submarines totaling 79,000 tonnes between 2021–2025, surpassing the U.S. production rate per IISS research.
+   Caption: China outpacing US submarine production isn't just a naval gap — it's a manufacturing capacity gap. You can't surge what you haven't built. This is what happens when industrial base investment falls behind for decades. #DefenseIndustry #SupplyChain #NationalSecurity
+
+4. FirstEnergy 5-year spending plan jumps 30%, to $36B, driven by transmission
+   Source : Utility Dive  |  Relevance: 8/10
+   Link   : https://www.utilitydive.com/news/firstenergy-capex-transmission-doe-gas-plant-earnings/812548/
+   Summary: FirstEnergy raised its five-year capital plan 30% to $36 billion, driven by transmission upgrades and a new gas-fired plant.
+   Caption: FirstEnergy's $36B spending plan — up 30% — with new generation and transmission tells the story: US energy infrastructure is in a massive buildout cycle. The industrial base serving this demand needs to scale accordingly. #EnergyInfrastructure #SupplyChain #USManufacturing
+
+5. IEA Features Fusion in State of Energy Innovation 2026 Report
+   Source : Fusion Industry Association  |  Relevance: 8/10
+   Link   : https://www.fusionindustryassociation.org/iea-features-fusion-in-state-of-energy-innovation-2026-report/?utm_source=rss&utm_medium=rss&utm_campaign=iea-features-fusion-in-state-of-energy-innovation-2026-report
+   Summary: The IEA's 2026 State of Energy Innovation report featured fusion energy alongside other emerging technologies for policymakers.
+   Caption: IEA putting fusion on equal footing with other emerging energy technologies is a policy milestone. As fusion approaches commercialization, the cryogenic and industrial infrastructure to support it has to be built in parallel — not after the fact. #FusionEnergy #EnergyInfrastructure #AdvancedManufacturing
+
+6. US Navy taps Fincantieri to build Marine Corps landing vessels
+   Source : Defense News  |  Relevance: 7/10
+   Link   : https://www.defensenews.com/naval/2026/02/20/us-navy-taps-fincantieri-to-build-marine-corps-landing-vessels/
+   Summary: The U.S. Navy selected Fincantieri to build Medium Landing Ships for the Marine Corps under a new construction model.
+   Caption: The Navy needing a Vessel Construction Manager as intermediary between the service and shipyards speaks volumes about the state of US shipbuilding capacity. We need to rebuild the industrial base, not just manage around its gaps. #DefenseIndustry #SupplyChain #USManufacturing
+
+7. SpaceX and Blue Origin abruptly shift priorities amid US Golden Dome push
+   Source : Defense News  |  Relevance: 7/10
+   Link   : https://www.defensenews.com/space/2026/02/19/spacex-and-blue-origin-abruptly-shift-priorities-amid-us-golden-dome-push/
+   Summary: SpaceX and Blue Origin shifted priorities toward lunar development as DOD advances Golden Dome missile defense plans.
+   Caption: Commercial space pivoting toward lunar programs while DOD pushes next-gen missile defense — both require massive ground systems and launch infrastructure investment. The common thread is always manufacturing capacity. #AerospaceMfg #SpaceDefense #DefenseIndustry
+
+8. NASA completes second Artemis 2 fueling test
+   Source : Space News  |  Relevance: 7/10
+   Link   : https://spacenews.com/nasa-completes-second-artemis-2-fueling-test/
+   Summary: NASA completed a second Artemis 2 wet dress rehearsal without the hydrogen leaks that affected the first test.
+   Caption: Artemis 2's cryogenic fueling tests are a reminder: launch capability depends on ground systems infrastructure. Hydrogen handling, cryogenic storage, propellant management — this is the unglamorous backbone that makes spaceflight possible. #AerospaceMfg #CryogenicSystems #SpaceInfrastructure
+
+9. Agile Space Industries Oversubscribed $17M Series A Accelerates Growth of In-Space Propulsion Capabilities
+   Source : Space News  |  Relevance: 7/10
+   Link   : https://spacenews.com/agile-space-industries-oversubscribed-17m-series-a-accelerates-growth-of-in-space-propulsion-capabilities/
+   Summary: Agile Space Industries closed an oversubscribed $17 million Series A to scale in-space chemical propulsion manufacturing.
+   Caption: Oversubscribed Series A for a propulsion hardware company out of Durango, CO. This is the distributed manufacturing model at work — advanced aerospace production doesn't have to be concentrated in legacy hubs. #AerospaceMfg #SupplyChain #SpaceTech
+
+10. Chart: Grid battery installations soared to a new high in 2025
+   Source : Canary Media  |  Relevance: 7/10
+   Link   : https://www.canarymedia.com/articles/batteries/chart-grid-battery-installations-soared-2025
+   Summary: U.S. grid battery installations reached a record 13 gigawatts in 2025, continuing rapid energy storage deployment growth.
+   Caption: 13 GW of grid battery installations in a single year. Energy storage at this scale requires serious manufacturing and supply chain infrastructure — another signal that US industrial capacity needs to keep pace with deployment targets. #EnergyInfrastructure #SupplyChain #USManufacturing
+
+==============================================================
+Digest contains 10 articles. Review links and post manually.

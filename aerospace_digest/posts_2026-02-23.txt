@@ -1,0 +1,52 @@
+ORIGINAL POSTS — February 23, 2026
+Narrative: We need to scale distributed manufacturing to support innovation and development in the US — ground systems infrastructure for aerospace, basic energy infrastructure, and cryogenic infrastructure for fusion and advanced energy.
+==============================================================
+
+── LINKEDIN POSTS ──────────────────────────────────────
+
+Post 1  [inspired by: Chamath's critique of California regulatory dysfunction paired with Prometheus Energetics breaking ground on SRM campus in Indiana]
+------------------------------------------------------
+Chamath Palihapitiya made a sharp point this week about California's bifurcated economy — one half building world-class companies, the other half perfecting regulatory dysfunction. That tension is exactly why Prometheus Energetics just broke ground on a solid rocket motor campus in Indiana, not California. Not Colorado. Indiana. This isn't a random site selection. It's a signal. When you need to scale energetics manufacturing for defense, you go where the permitting environment, workforce pipeline, and land economics actually work. We keep talking about reshoring and industrial base resilience in abstract terms. Prometheus is doing it concretely — building a greenfield SRM facility in a state that wants manufacturing. The distributed manufacturing thesis isn't about spreading production around for political optics. It's about matching critical capability to places where the regulatory and workforce math actually closes. If we're serious about scaling aerospace ground systems and defense production, we need twenty more of these announcements in the next two years. The bottleneck isn't demand. It's shovels in dirt. #DistributedManufacturing #AerospaceDefense #IndustrialBase
+
+  SOURCE LINKS:
+  → https://x.com/chamath/status/2025681738320720273
+  → https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKYkMtaE01ZzBuNzNUTGRyLWlldmd6Zm1CVU1ZSmdZT1pmaTdxM1QycGtZNndIU1JCNGdJc0lBTEFfY2dKVXpUNG1iYmR1SFF5TVoxYTFxczI?oc=5
+
+Post 2  [inspired by: Trae Stephens on private sector leverage combined with PPL's $23B capex plan and data center generation buildout]
+------------------------------------------------------
+Trae Stephens made a comment this week about finding higher-leverage impact in the private sector versus government — and PPL's new $23 billion capital spending plan is a perfect illustration of where that leverage lives right now. PPL just bumped its infrastructure investment 15%, with a PPL-Blackstone joint venture in active talks with hyperscalers to supply data center generation directly. This is the grid buildout story that most people still underestimate. We are not in an incremental upgrade cycle. We are in a generational rebuild. Transmission hardening, new generation assets, grid-edge storage — this is physical infrastructure at massive scale, and it's being driven by AI demand that didn't exist in utility planning models three years ago. The companies that can fabricate, install, and commission this infrastructure — transformers, switchgear, cabling, substations — are the actual bottleneck. Every billion PPL deploys requires thousands of skilled trades hours and manufactured components. The energy transition conversation needs to stop being about policy and start being about production capacity. #EnergyInfrastructure #GridBuildout #Manufacturing
+
+  SOURCE LINKS:
+  → https://x.com/traestephens/status/2025655037943304350
+  → https://www.utilitydive.com/news/ppl-capx-spending-plan-data-center-earnings/812813/
+  → https://news.google.com/rss/articles/CBMitAFBVV95cUxNc01fRUFtdXVfeEJPUTNCaUNIc2Mya3UycFhROFFUV25oemJPMkJJZWNNcFBPTjdpeDdxN0RfUEl1dlk2TWlxNGVNd1ByQk80ZFNQTVgtUTdud3RFQjF3dmViQ3Vac2FFcm8yNkpsNUFKT2RqSmJrVDFYTGtHWmVJcU5ZU1M1RlNNNDZIUXUtQzVnakhLbXVlTjFKWHZ0aXVxLXlhUWI4cUxrSElHdWwzMTN6eEI?oc=5
+
+Post 3  [inspired by: Lonsdale on generational patriots combined with Texas Space Commission awards and Guofu Hydrogen winning fusion cryogenics bid in China]
+------------------------------------------------------
+Joe Lonsdale this week highlighted what he called generational patriots making outsized impact on US national interests — and two unrelated news items show exactly where that impact needs to scale next. The Texas Space Commission just finished deploying $150 million in awards to space companies and organizations across the state, building out aerospace ground infrastructure from launch pads to test facilities. Meanwhile, Jiangsu Guofu Hydrogen just won a fusion cryogenics bid in China, extending its hydrogen infrastructure capabilities into advanced energy systems. Connect the dots. Texas is investing state capital in aerospace ground systems. China is leveraging its existing hydrogen industrial base to capture fusion cryogenics manufacturing. The US has no equivalent cryogenic supply chain at scale for fusion or advanced energy. We have brilliant fusion startups. What we don't have is the distributed manufacturing base to build their cryogenic systems, vacuum vessels, and superconducting magnet infrastructure domestically. That's the gap. State-level investment like Texas is showing the model, but we need it replicated for energy infrastructure — especially cryogenics — before that market is locked up overseas. #FusionEnergy #Cryogenics #AmericanManufacturing
+
+  SOURCE LINKS:
+  → https://x.com/JTLonsdale/status/2025971350721159582
+  → https://spacenews.com/texas-space-commission-completes-150-million-in-awards/
+  → https://news.google.com/rss/articles/CBMiywFBVV95cUxOWS1QSmREZUQ0cnJ3bkdlQWVvbk1Eb0hBQ2NVOFFmX0VnVG1XNlF0TFBnSlB2SEFTNzZYb2VudjlTZF9OOUxKR0ROdjc2ZVM5SmMzd0dkR0VXLTNxYmZFWmVzVDNPVzdTYzFfblByT3hPRVVURUZoQ3VDS2pXV3FvbS1oellXdnhhU29zY0hLXzhXZjQzV0JIZVlkUG9FMjV6OTF3V2R0LWRXNzVGdTVuV2dLMkh0WEZzTWxKM0lXNzNnVUVYNzRqdTFhdw?oc=5
+
+── X / TWITTER POSTS ────────────────────────────────────
+
+Post 1  [250 chars]  [inspired by: Prometheus Energetics Indiana SRM campus groundbreaking]
+------------------------------------------------------
+Prometheus Energetics breaking ground on a solid rocket motor campus in Indiana. Not CA, not CO. Indiana. Distributed defense manufacturing is following the workforce and permitting math, not the zip code prestige. More of this. #DefenseManufacturing
+
+Post 2  [220 chars]  [inspired by: PPL $23B spending plan and Blackstone data center JV]
+------------------------------------------------------
+PPL capex plan up 15% to $23B. Blackstone JV talking to hyperscalers about direct generation. The grid buildout isn't a forecast anymore — it's a procurement cycle. Who's manufacturing the hardware? #EnergyInfrastructure
+
+Post 3  [200 chars]  [inspired by: Jiangsu Guofu Hydrogen winning fusion cryogenics bid]
+------------------------------------------------------
+A Chinese hydrogen company just won a fusion cryogenics contract. The US has the best fusion startups in the world and no domestic cryogenic supply chain to build them. That's a problem. #FusionEnergy
+
+Post 4  [216 chars]  [inspired by: Texas Space Commission $150M in awards]
+------------------------------------------------------
+Texas Space Commission deployed $150M in state-level aerospace infrastructure funding. States are filling federal gaps in real time. The distributed manufacturing model starts at the state level. #SpaceInfrastructure
+
+==============================================================
+Review and edit before posting. These are AI-generated drafts.

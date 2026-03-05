@@ -1,0 +1,96 @@
+{
+  "date": "February 20, 2026",
+  "narrative": "We need to scale distributed manufacturing to support innovation and development in the US — ground systems infrastructure for aerospace, basic energy infrastructure, and cryogenic infrastructure for fusion and advanced energy.",
+  "items": [
+    {
+      "headline": "Boeing to boost production of missile-tracking sensors for military satellites",
+      "source": "Space News",
+      "url": "https://spacenews.com/boeing-to-boost-production-of-missile-tracking-sensors-for-military-satellites/",
+      "published": "2026-02-20 21:00 UTC",
+      "one_liner": "Boeing opened a new El Segundo facility to increase production of missile-tracking sensors for Millennium military satellites.",
+      "caption": "Boeing scaling sensor production for missile-warning satellites is exactly the kind of defense manufacturing capacity expansion the US needs more of. New facilities, new production lines, real hardware. #AerospaceMfg #DefenseIndustry #SpaceDefense",
+      "relevance_score": 9
+    },
+    {
+      "headline": "SoftBank bets $33B on massive U.S. gas plant for AI boom - The Tech Buzz",
+      "source": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2ZzTHYzOWZCN09ZWTNpYkFYM1dLeEFKQjljR0E5OEFwMVBBRlNqX0pqQ3pnZnFmNWI3REdwcWxDME5VTjIwTmNNXzF4eDNqY2hEcktjbmZmNDV6MlJmOGZIb1Itams2XzFUNS1xZDAyU21KV0lHa1BJWjN4S1Y2VWlwQXkwYlllSGRGRnVvYVU?oc=5",
+      "published": "2026-02-20 01:26 UTC",
+      "one_liner": "SoftBank plans a $33 billion investment in a massive U.S. gas-fired power plant to meet surging AI energy demand.",
+      "caption": "$33B into a single US power plant. AI demand is forcing the conversation we should have been having all along: you can't run an advanced industrial economy without massive baseload energy infrastructure. #EnergyInfrastructure #USManufacturing #IndustrialBase",
+      "relevance_score": 8
+    },
+    {
+      "headline": "China’s nuclear submarine production rate surpasses that of US: Report",
+      "source": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/02/china-building-more-nuclear-subs-than-america-iiss-report/",
+      "published": "2026-02-19 21:48 UTC",
+      "one_liner": "China launched 10 submarines totaling 79,000 tonnes between 2021–2025, surpassing the U.S. production rate per IISS research.",
+      "caption": "China outpacing US submarine production isn't just a naval gap — it's a manufacturing capacity gap. You can't surge what you haven't built. This is what happens when industrial base investment falls behind for decades. #DefenseIndustry #SupplyChain #NationalSecurity",
+      "relevance_score": 8
+    },
+    {
+      "headline": "FirstEnergy 5-year spending plan jumps 30%, to $36B, driven by transmission",
+      "source": "Utility Dive",
+      "url": "https://www.utilitydive.com/news/firstenergy-capex-transmission-doe-gas-plant-earnings/812548/",
+      "published": "2026-02-19 22:00 UTC",
+      "one_liner": "FirstEnergy raised its five-year capital plan 30% to $36 billion, driven by transmission upgrades and a new gas-fired plant.",
+      "caption": "FirstEnergy's $36B spending plan — up 30% — with new generation and transmission tells the story: US energy infrastructure is in a massive buildout cycle. The industrial base serving this demand needs to scale accordingly. #EnergyInfrastructure #SupplyChain #USManufacturing",
+      "relevance_score": 8
+    },
+    {
+      "headline": "IEA Features Fusion in State of Energy Innovation 2026 Report",
+      "source": "Fusion Industry Association",
+      "url": "https://www.fusionindustryassociation.org/iea-features-fusion-in-state-of-energy-innovation-2026-report/?utm_source=rss&utm_medium=rss&utm_campaign=iea-features-fusion-in-state-of-energy-innovation-2026-report",
+      "published": "2026-02-19 23:49 UTC",
+      "one_liner": "The IEA's 2026 State of Energy Innovation report featured fusion energy alongside other emerging technologies for policymakers.",
+      "caption": "IEA putting fusion on equal footing with other emerging energy technologies is a policy milestone. As fusion approaches commercialization, the cryogenic and industrial infrastructure to support it has to be built in parallel — not after the fact. #FusionEnergy #EnergyInfrastructure #AdvancedManufacturing",
+      "relevance_score": 8
+    },
+    {
+      "headline": "US Navy taps Fincantieri to build Marine Corps landing vessels",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/naval/2026/02/20/us-navy-taps-fincantieri-to-build-marine-corps-landing-vessels/",
+      "published": "2026-02-20 16:41 UTC",
+      "one_liner": "The U.S. Navy selected Fincantieri to build Medium Landing Ships for the Marine Corps under a new construction model.",
+      "caption": "The Navy needing a Vessel Construction Manager as intermediary between the service and shipyards speaks volumes about the state of US shipbuilding capacity. We need to rebuild the industrial base, not just manage around its gaps. #DefenseIndustry #SupplyChain #USManufacturing",
+      "relevance_score": 7
+    },
+    {
+      "headline": "SpaceX and Blue Origin abruptly shift priorities amid US Golden Dome push",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/space/2026/02/19/spacex-and-blue-origin-abruptly-shift-priorities-amid-us-golden-dome-push/",
+      "published": "2026-02-20 02:58 UTC",
+      "one_liner": "SpaceX and Blue Origin shifted priorities toward lunar development as DOD advances Golden Dome missile defense plans.",
+      "caption": "Commercial space pivoting toward lunar programs while DOD pushes next-gen missile defense — both require massive ground systems and launch infrastructure investment. The common thread is always manufacturing capacity. #AerospaceMfg #SpaceDefense #DefenseIndustry",
+      "relevance_score": 7
+    },
+    {
+      "headline": "NASA completes second Artemis 2 fueling test",
+      "source": "Space News",
+      "url": "https://spacenews.com/nasa-completes-second-artemis-2-fueling-test/",
+      "published": "2026-02-20 20:12 UTC",
+      "one_liner": "NASA completed a second Artemis 2 wet dress rehearsal without the hydrogen leaks that affected the first test.",
+      "caption": "Artemis 2's cryogenic fueling tests are a reminder: launch capability depends on ground systems infrastructure. Hydrogen handling, cryogenic storage, propellant management — this is the unglamorous backbone that makes spaceflight possible. #AerospaceMfg #CryogenicSystems #SpaceInfrastructure",
+      "relevance_score": 7
+    },
+    {
+      "headline": "Agile Space Industries Oversubscribed $17M Series A Accelerates Growth of In-Space Propulsion Capabilities",
+      "source": "Space News",
+      "url": "https://spacenews.com/agile-space-industries-oversubscribed-17m-series-a-accelerates-growth-of-in-space-propulsion-capabilities/",
+      "published": "2026-02-19 19:00 UTC",
+      "one_liner": "Agile Space Industries closed an oversubscribed $17 million Series A to scale in-space chemical propulsion manufacturing.",
+      "caption": "Oversubscribed Series A for a propulsion hardware company out of Durango, CO. This is the distributed manufacturing model at work — advanced aerospace production doesn't have to be concentrated in legacy hubs. #AerospaceMfg #SupplyChain #SpaceTech",
+      "relevance_score": 7
+    },
+    {
+      "headline": "Chart: Grid battery installations soared to a new high in 2025",
+      "source": "Canary Media",
+      "url": "https://www.canarymedia.com/articles/batteries/chart-grid-battery-installations-soared-2025",
+      "published": "2026-02-20 16:30 UTC",
+      "one_liner": "U.S. grid battery installations reached a record 13 gigawatts in 2025, continuing rapid energy storage deployment growth.",
+      "caption": "13 GW of grid battery installations in a single year. Energy storage at this scale requires serious manufacturing and supply chain infrastructure — another signal that US industrial capacity needs to keep pace with deployment targets. #EnergyInfrastructure #SupplyChain #USManufacturing",
+      "relevance_score": 7
+    }
+  ]
+}

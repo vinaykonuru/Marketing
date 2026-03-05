@@ -1,0 +1,53 @@
+{
+  "date": "March 05, 2026",
+  "linkedin_posts": [
+    {
+      "post": "Chamath Palihapitiya flagged something this week that doesn't get enough attention in defense circles: China's growth is at a 30-year low, and its energy supply lines through Venezuela and Iran are getting squeezed. That's a geopolitical window — but only if we can actually build. Which is why the Roboze raise from Rule 1 Ventures matters more than the headline suggests. AI-driven distributed manufacturing for defense and critical infrastructure isn't a nice-to-have anymore. It's the difference between a 36-month lead time on a cryogenic component and a 9-month one. We've spent two decades optimizing for cost via offshoring. Now the constraint is speed and resilience, and the production base isn't there. Distributed manufacturing closes that gap — not by building one mega-factory, but by deploying capable production nodes closer to the point of need. The investment thesis here isn't software. It's physical capacity. And we need a lot more of it, fast. #DistributedManufacturing #DefenseIndustrial #CriticalInfrastructure",
+      "source_signal": "Chamath's tweet on China's slowing growth + energy constraints paired with Roboze's distributed manufacturing raise for defense",
+      "source_urls": [
+        "https://x.com/chamath/status/2029416079781736844",
+        "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNGtFUkhpd0M0aU9mUlc2c3NKaTJDcVFnWEVJMEljUHdfMFhmQlRibjRBeFBHZHZWQ0hyWmU5TjdfMHFCNzBabDBPTFRfRGh1eGxxMXVyeHhJU0lYWkVQdVpSM0wxeVF1dzF2Y2NGS2hHR1cyVUNSR1AwdjA4d3NMT0IzOU5RRlE4OGFTVHlHT21lY1Y3d25TWEtGd0ZHSXlVTHJOU014cFAyTk8wdVVJWmVmSUZ1c3N2enhMWk1yT3Vwcy1kTzlESWlHWjlLd3R5bXBoejRTQlhhajNjVnlMd0xRWThDcVdUbjNibnVIWUxpMjYxWkpzb1ZqVlFxdG9vRFBpcEZoQTl5SnNtMVRPbXRCUHVPaXdWTXd0aA?oc=5"
+      ]
+    },
+    {
+      "post": "Eric Berger resurfaced his plan for saving Artemis this week — a plan he published 18 months ago that NASA still hasn't acted on. Meanwhile, the NRC just granted TerraPower the first commercial nuclear construction permit in years for its Natrium reactor in Wyoming. Notice the contrast: one institution can't reform its way out of a paper bag, and another just cleared a genuinely novel reactor design for construction. The difference? The NRC had a process that, however slow, eventually yielded a decision. Artemis has cost overruns and no forcing function. Here's what connects these: both advanced nuclear and deep-space ground systems need the same cryogenic infrastructure, the same precision manufacturing base, the same workforce. A sodium-cooled reactor and a liquid hydrogen storage facility share more supply chain DNA than most people realize. We should be building these capabilities in parallel, not in silos. The TerraPower permit is a proof point. Now scale it. #AdvancedNuclear #AerospaceInfrastructure #EnergyBuildout",
+      "source_signal": "Eric Berger's Artemis tweet paired with TerraPower NRC construction permit news",
+      "source_urls": [
+        "https://x.com/SciGuySpace/status/2029373641478086826",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZnczd3ZkSWhFTGxKOVF4NDZRRlhBS3BTV0FWVld1NWt2MDdabG40b0U2T1pxbXVzcEJrcDA1TzdOOFcxVXhrSElfXzBScVJzSW5aTVpwUmg4d0NXZmladld1ellaVlZKZ0NhVGVUb284bjNsMXJDRTBJTzNCU3RlTjFEeWFhbi1TMXJsTUhqU2lhd1RySnVWUDBIakNHcnl1UGh1b3ItRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdzNRa0gtVXg1YUpGRGtWQ3ZDaXRaVThsX1FTSTREOWM2OVBwZmRqVHozVU5JMkw5ckNVVjlSUTRUSmplenRLVmpqVGRIcHV2YzFDUDdTNmZIYkZoajdNU0VkaEZYYXFlX0FMVVJQT1pNd2FmMjBSYVdjbE5xS1c2bVNBSzVhaEJ1UFFWeFdHNzJaNnBZdzFmclR3SmlwajdXQ2pqOVRscGRVZw?oc=5"
+      ]
+    },
+    {
+      "post": "Marc Andreessen listed what he considers the dozen most important software innovations since punch cards this week — Unix, GPT models, robotics software. Fair enough. But here's the industrial reality: every one of those software breakthroughs eventually hits a physical constraint. GPT-5.4 just launched with a million-token context window, and the data centers to run it need power we don't have. TerraPower just got its Wyoming reactor permit — the first commercial nuclear construction approval in years — and that's one plant. One. The Department of Energy estimates we need to add 700-900 GW of clean firm power by 2050. Software scales with keystrokes. Energy infrastructure scales with steel, concrete, and cryogenic-grade components that take years to fabricate. The bottleneck isn't the algorithm. It's the grid, the cooling systems, the manufacturing capacity to produce reactor-grade materials at volume. Distributed manufacturing isn't a trend — it's the prerequisite for everything else working. #EnergyInfrastructure #AdvancedManufacturing #NuclearEnergy",
+      "source_signal": "Andreessen's software innovations list and Altman's GPT-5.4 launch contrasted with TerraPower nuclear permit and physical infrastructure needs",
+      "source_urls": [
+        "https://x.com/pmarca/status/2029373432169939452",
+        "https://x.com/sama/status/2029622732594499630",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZWVGNWV0cXRSalJDVnVkX2dTRWVYWWZUb0lYZzhBVC0zZVl1WXpUMHZqV0hfeWhtZlVrMnVYMVFrVUJiUU93LVlmMExtVFlaeWN3TjZLYlp4ZFA2UnZqUzI1QngyWkllMWo2ZnRHSHFjZFA0cFNtMGZVWnM5Z1V5UXVwN3hrWVFieGZ6ZkVUUXc4clpuNG5F?oc=5"
+      ]
+    }
+  ],
+  "twitter_posts": [
+    {
+      "post": "First commercial nuclear construction permit in years. One reactor. We need hundreds of GW of clean firm power. The bottleneck isn't regulatory anymore — it's manufacturing capacity for reactor-grade components. #AdvancedNuclear #Manufacturing",
+      "char_count": 243,
+      "source_signal": "TerraPower NRC permit — highlighting the scale gap between one approval and actual energy needs"
+    },
+    {
+      "post": "AI-driven distributed manufacturing just got another defense-focused raise. Good. Because you can't 3D-print national security on a 36-month lead time from a single facility overseas. #DistributedManufacturing",
+      "char_count": 209,
+      "source_signal": "Roboze investment from Rule 1 Ventures for defense distributed manufacturing"
+    },
+    {
+      "post": "GPT-5.4 launches with 1M token context windows. The data centers to run it need power we aren't building fast enough. Software scales instantly. The grid doesn't. #EnergyInfrastructure",
+      "char_count": 184,
+      "source_signal": "Sam Altman GPT-5.4 launch contrasted with energy infrastructure reality"
+    },
+    {
+      "post": "Sodium-cooled reactors and liquid hydrogen ground systems share more supply chain DNA than most people realize. Build the cryogenic manufacturing base for one, you accelerate both. #Aerospace #Nuclear",
+      "char_count": 200,
+      "source_signal": "TerraPower Natrium permit connecting nuclear and aerospace cryogenic infrastructure overlap"
+    }
+  ]
+}

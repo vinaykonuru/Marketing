@@ -1,0 +1,66 @@
+AEROSPACE MANUFACTURING DIGEST — February 19, 2026
+Narrative: We need to scale distributed manufacturing to support innovation and development in the US — ground systems infrastructure for aerospace, basic energy infrastructure, and cryogenic infrastructure for fusion and advanced energy.
+==============================================================
+
+1. Sentinel ICBM program hit by software delays, Minuteman extension risks: GAO
+   Source : Defense News  |  Relevance: 8/10
+   Link   : https://www.defensenews.com/news/pentagon-congress/2026/02/18/sentinel-icbm-program-hit-by-software-delays-minuteman-extension-risks-gao/
+   Summary: GAO reports software delays in the Sentinel ICBM program, which requires replacing over 600 facilities across five states.
+   Caption: Replacing 600+ facilities across five states is one of the largest defense infrastructure buildouts in a generation — and it's already hitting delays. This is exactly why we need to invest in scalable, distributed construction and manufacturing capacity now. #DefenseIndustry #AerospaceMfg #Infrastructure
+
+2. Northrop not seeking direct DoD investment for solid rocket motors, but suppliers might: CEO
+   Source : Breaking Defense  |  Relevance: 8/10
+   Link   : https://breakingdefense.com/2026/02/northrop-not-seeking-direct-dod-investment-for-solid-rocket-motors-but-suppliers-might-ceo/
+   Summary: Northrop Grumman's CEO says the company won't seek direct DoD investment for solid rocket motors but suppliers may need support.
+   Caption: Northrop wants to own its solid rocket motor capacity — but the supplier base underneath still needs investment. Primes can't scale alone. Distributed manufacturing and supplier resilience are the real bottleneck. #DefenseIndustry #SupplyChain #AerospaceMfg
+
+3. Heron Power raises $140M to modernize electrical transformers
+   Source : Canary Media  |  Relevance: 8/10
+   Link   : https://www.canarymedia.com/articles/climatetech-finance/heron-power-raises-140m-electrical-transformers
+   Summary: Heron Power raised $140M to modernize electrical transformer manufacturing amid nationwide supply shortages.
+   Caption: Transformers have been built the same way since the 1800s — and now they're in critical shortage as power demand surges. $140M into modernizing this manufacturing is a signal: basic energy infrastructure is a scaling problem, not just a technology problem. #EnergyInfrastructure #Manufacturing #SupplyChain
+
+4. Airbus Revises Commercial Aircraft Production Targets - Aviation Week
+   Source : Aviation Week  |  Relevance: 7/10
+   Link   : https://news.google.com/rss/articles/CBMitgFBVV95cUxPVU5JTmtBUGdUeXVqbGlHYlF1Yy1RbXU5SnhVNF9HdUlTS2lGb1dfTzNoT2UwRTlHR0toVkJBSEFkWkVfMmlIbWdKQWpWOFp0MW1BemRra2F5LTFuaG0xcERpcmFfNUl6UUtnWm5IdS0zaW43RG9iTnBrVVJXZWp1akIzcXhnWmRpN3ZUWFNUVFJncldBVXRFVXltdnExNE55Y0kwWGVNSjMyQWI5ZTBMSUEwVW96dw?oc=5
+   Summary: Airbus has revised its commercial aircraft production targets amid ongoing manufacturing capacity challenges.
+   Caption: Airbus adjusting production targets is a reminder that even the world's largest OEMs can't will capacity into existence. Scaling aerospace manufacturing requires distributed production infrastructure — not just ambition. #AerospaceMfg #SupplyChain #Aviation
+
+5. ATR targets growth with new assembly line though supply chain constraints linger - AeroTime
+   Source : AeroTime  |  Relevance: 7/10
+   Link   : https://news.google.com/rss/articles/CBMitgFBVV95cUxQemJucVBkZHRsdHg5MHZwcXhYTjR5cUNXTzcxbGhjWW1YajJwNWhKMnpCYU8yZGliY21rampfWlhlYWsySGpZcWZKenBTMUZhZTBXX0QzM2RIZEpGVVQ5RXlGM0twQnJScE8tN1hyS0UxSHg5WlVLWFJrUjdZYTVJVWcydkp2X0hkR0h1RDRjM3N2cm02LXQ3RVltTk93bWdmLXlpTXJXdmMxUnJVbWY4Y1BHem5WQdIBuwFBVV95cUxOSVA5TmdqdERIbkk4MXRoSTloR2d3R1JzYlFMU2FQaTJ1S2RsOFBpMGhWaVlYRUtSYVRGa2dhT2ZzSVlpQ00ydHVOZG5GZ1FhVm1zMU5TdEFSOW1mNXZZdnFhRlVLQmxKaXhMbjBadnY2ZC0xamhQN2VHQmJEdjlVWldVN0xWcEUtSDB3LXZOcElQSkVpaDFnRXdBUkc2WjFBcUZEMjVYUlpvaThvc3c4ejJNVllVLVlhc044?oc=5
+   Summary: ATR is building a new assembly line to support growth, though supply chain constraints continue to limit production.
+   Caption: New assembly lines are necessary but not sufficient. ATR's supply chain constraints mirror what we see across aerospace: the bottleneck isn't final assembly — it's the distributed supplier base feeding it. #AerospaceMfg #SupplyChain #Manufacturing
+
+6. Silicon Valley is building a shadow power grid for data centers across the U.S. - The Washington Post
+   Source : The Washington Post  |  Relevance: 7/10
+   Link   : https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2kzMXlCNDZ0ZnRPS3YwaXBuOXhyek0xVGlYdUxfSTUyUW1TMHZhMnF2bEh6NWJBTWI4TS12N3Z6ZGJPMjNoZ1RhNTJpNFpHX0RYMTRjLTlOYTZad1FocGRpVzlUSFRwUG9JQVE5d19VSnBsRTVyc25yWlkzbTFMVXRyOUw?oc=5
+   Summary: Tech companies are building a parallel private power grid across the US to meet surging data center energy demand.
+   Caption: Silicon Valley building its own shadow power grid is the clearest signal yet: existing US energy infrastructure can't keep pace with demand. We need to scale basic energy infrastructure — generation, transmission, cryogenic systems — with the same urgency we bring to software. #EnergyInfrastructure #Infrastructure #Manufacturing
+
+7. Dept. of Workforce Development: ICYMI: Gov. Evers announces Wisconsin won $7.3 million to fund new workforce training grants for advanced manufacturing and AI sectors - WisPolitics
+   Source : WisPolitics  |  Relevance: 7/10
+   Link   : https://news.google.com/rss/articles/CBMioAJBVV95cUxQUTY4UjRaTzRXcVlLbi1PUmNGYnNIdU9TRWZlVjJjd2dFQ2JkV1p3TnM5YkVZbE9yVkZMalpnM1pfRE1MVDR5cktPTzBKUjhQYzlZZXNRUTBVWDJSQk9xZ2k0RXdudmR2bE5RY1NpMFRIU3FWQXB0ejUzVzVENHMySmNnSXB3c1JtdHI4R0hPVWJZRzdDWVVmNEVFanEwWFNwNDlvQ0pVdkRvY0pVUHdlMENNaUVYV3RQSUNuZU41WEk1QlFIU09FNzFmbGtySE9WWWpEazMyY0pqX0YwOGE5d2VLUnpFbHRWYldLVjJpX2lDMHJnSTZqRWhCLXAtaVRqdF84WjBHZnYwazlhWkduODl3c3lzclZ6ME5ReXBKTG0?oc=5
+   Summary: Wisconsin received $7.3M in federal grants for workforce training in advanced manufacturing and AI sectors.
+   Caption: You can't scale distributed manufacturing without a distributed workforce. Wisconsin's $7.3M in advanced manufacturing training grants is a step — but the national need is orders of magnitude larger. #AdvancedManufacturing #Workforce #SupplyChain
+
+8. Agile Space Industries Oversubscribed $17M Series A Accelerates Growth of In-Space Propulsion Capabilities
+   Source : Space News  |  Relevance: 7/10
+   Link   : https://spacenews.com/agile-space-industries-oversubscribed-17m-series-a-accelerates-growth-of-in-space-propulsion-capabilities/
+   Summary: Agile Space Industries closed an oversubscribed $17M Series A to scale in-space chemical propulsion manufacturing.
+   Caption: Agile Space raising $17M to scale propulsion manufacturing out of Durango, CO is exactly the model we need more of — distributed, specialized aerospace production outside traditional hubs. This is how you build a resilient industrial base. #AerospaceMfg #SpaceIndustry #Manufacturing
+
+9. China’s nuclear submarine production rate surpasses that of US: Report
+   Source : Breaking Defense  |  Relevance: 7/10
+   Link   : https://breakingdefense.com/2026/02/china-building-more-nuclear-subs-than-america-iiss-report/
+   Summary: China launched 10 submarines totaling 79,000 tonnes from 2021–2025, surpassing US production rates per IISS research.
+   Caption: China outpacing US submarine production isn't a technology gap — it's a manufacturing capacity gap. 10 submarines in four years vs. our current rate should be a wake-up call. Scaling defense industrial infrastructure is a national security imperative. #DefenseIndustry #SupplyChain #Manufacturing
+
+10. FirstEnergy 5-year spending plan jumps 30%, to $36B, driven by transmission
+   Source : Utility Dive  |  Relevance: 7/10
+   Link   : https://www.utilitydive.com/news/firstenergy-capex-transmission-doe-gas-plant-earnings/812548/
+   Summary: FirstEnergy increased its five-year capital spending plan 30% to $36B, driven primarily by transmission infrastructure.
+   Caption: FirstEnergy's $36B capital plan — up 30% — is driven by transmission buildout and new generation. This is the scale of investment US energy infrastructure demands. The question is whether our manufacturing base can deliver the hardware fast enough. #EnergyInfrastructure #Infrastructure #SupplyChain
+
+==============================================================
+Digest contains 10 articles. Review links and post manually.

@@ -1,0 +1,66 @@
+AEROSPACE MANUFACTURING DIGEST — February 19, 2026
+Narrative: ground systems aerospace manufacturing capacity and demand
+==============================================================
+
+1. ATR targets growth with new assembly line though supply chain constraints linger - AeroTime
+   Source : AeroTime  |  Relevance: 9/10
+   Link   : https://news.google.com/rss/articles/CBMitgFBVV95cUxQemJucVBkZHRsdHg5MHZwcXhYTjR5cUNXTzcxbGhjWW1YajJwNWhKMnpCYU8yZGliY21rampfWlhlYWsySGpZcWZKenBTMUZhZTBXX0QzM2RIZEpGVVQ5RXlGM0twQnJScE8tN1hyS0UxSHg5WlVLWFJrUjdZYTVJVWcydkp2X0hkR0h1RDRjM3N2cm02LXQ3RVltTk93bWdmLXlpTXJXdmMxUnJVbWY4Y1BHem5WQdIBuwFBVV95cUxOSVA5TmdqdERIbkk4MXRoSTloR2d3R1JzYlFMU2FQaTJ1S2RsOFBpMGhWaVlYRUtSYVRGa2dhT2ZzSVlpQ00ydHVOZG5GZ1FhVm1zMU5TdEFSOW1mNXZZdnFhRlVLQmxKaXhMbjBadnY2ZC0xamhQN2VHQmJEdjlVWldVN0xWcEUtSDB3LXZOcElQSkVpaDFnRXdBUkc2WjFBcUZEMjVYUlpvaThvc3c4ejJNVllVLVlhc044?oc=5
+   Summary: ATR is investing in a new assembly line to boost turboprop production capacity despite ongoing aerospace supply chain constraints.
+   Caption: ATR's new assembly line signals confidence in turboprop demand — but lingering supply chain constraints remind us that capacity investment alone doesn't solve throughput. The bottleneck has shifted from orders to execution. #AerospaceMfg #SupplyChain #Aviation
+
+2. Maintaining supply chain resilience - Aerospace Manufacturing
+   Source : Aerospace Manufacturing  |  Relevance: 9/10
+   Link   : https://news.google.com/rss/articles/CBMibEFVX3lxTE9KaEVFU2pzVFFLZExZU1hjUERDaU84eGpjSXNwc1hrZjFiZ1Y2NWpXREYtQ0hjTEt1UU83ZW5ZRW5QT3dmUzdmZUhaUF9Oald3WERNOG01YmwyUGdWZUdCcFpmcWFEQUtPLVp1YQ?oc=5
+   Summary: Aerospace manufacturers are prioritizing supply chain resilience strategies to sustain production amid persistent disruptions.
+   Caption: Resilience isn't a buzzword — it's the operating imperative for aerospace manufacturing today. The companies building redundancy and visibility into their supply chains will be the ones that deliver on backlog. #AerospaceMfg #SupplyChain #DefenseIndustry
+
+3. Bae Systems Posts Record Order Backlog as Defense Spending Rises - The Defense Post
+   Source : The Defense Post  |  Relevance: 9/10
+   Link   : https://news.google.com/rss/articles/CBMic0FVX3lxTE1DMFZkeWRQVzJtY0RKTGQ3Q0xVOTJvbmdBX19pU0tfc1VXS2pnc0Q5aEhoa2FrU0N3OU1lRnNOUGFrenpMR3ZrQ3dkcnI4SVh1T19LTW1tRG96NXlFX0VKT2w3UkNPd1pYbE5qbjY5Z0NfbjTSAXhBVV95cUxQVzNYdUhMUUdIdjdGX01Ic2NVX0VhVFN0YmVjWURiV2ZvekczY1VYV3JSZV90ZW5LSWQ1d1BDTGthWWhoUDR2SnBIVnhKLVpjQUg1TzBBWW5YeVl0QkZvbC1LUWZEUkh3eEtrNTZITDVIbmxWa3hHNWs?oc=5
+   Summary: BAE Systems reported a record order backlog driven by rising global defense spending across key markets.
+   Caption: BAE Systems' record backlog is a clear demand signal — but record orders only matter if the industrial base can convert them into deliveries. The capacity question looms large. #DefenseIndustry #AerospaceMfg #SupplyChain
+
+4. Britain’s BAE Systems sets sights on defense spending boom amid record order backlog - CNBC
+   Source : CNBC  |  Relevance: 9/10
+   Link   : https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTVUODFqUzN3TGZpWHlTZWZGNEJvNk4taF9SeEVMTnRjaEQ1OXd6V1lpelp4UTVlVlhzVVR6c2JXaWRqdGtMbkhRRU9wby1oS1FfcXNMdW5ybDZJeU9SS0lTZnpBMG5vRW5ncXk0OGJFdW5tYUJXS3p6RVMyR1d3QzFVRnA0UG1ucml4eXZXYUtZeDBRLXFDRjdleFBzb1hYR0dn0gGoAUFVX3lxTE5GUUE0OU5NNEFNNkhUbDdKOTF6M0I2UU02cGVpZWpxZjdOVzQ0TTVIbk05M0FfVlBEX1NpdXBKOW9PQnZsbkdIakV5dnA5Rno4ZndjWkhmWE56OUU1VkN6U0FXbmpvR2tLSW5lUU9xWGhGN1NJeVdUdE8wTXJUZlR0Y294dE5MZWxBaUtHbnp2OG5WZm9COWkyZ2pYVUhDZEV1UFBJdThyMw?oc=5
+   Summary: BAE Systems is positioning for a defense spending boom as its order backlog reaches unprecedented levels.
+   Caption: A defense spending boom with a record backlog — BAE Systems' outlook underscores the central tension in aerospace: surging demand meeting finite manufacturing capacity. Scaling production is now the strategic priority. #DefenseIndustry #AerospaceMfg #SupplyChain
+
+5. BAE says its Eurofighter pipeline is filled until first GCAP assembly
+   Source : Defense News  |  Relevance: 9/10
+   Link   : https://www.defensenews.com/global/europe/2026/02/19/bae-says-its-eurofighter-pipeline-is-filled-until-first-gcap-assembly/
+   Summary: BAE Systems' Eurofighter production pipeline is fully booked through the start of GCAP next-gen fighter assembly.
+   Caption: BAE's Eurofighter line filled through GCAP assembly is a textbook example of production continuity planning. No gap in the pipeline means sustained workforce, tooling, and supplier engagement — the gold standard for defense manufacturing. #AerospaceMfg #DefenseIndustry #GCAP
+
+6. Northrop not seeking direct DoD investment for solid rocket motors, but suppliers might: CEO
+   Source : Breaking Defense  |  Relevance: 9/10
+   Link   : https://breakingdefense.com/2026/02/northrop-not-seeking-direct-dod-investment-for-solid-rocket-motors-but-suppliers-might-ceo/
+   Summary: Northrop Grumman will not seek direct DoD investment for solid rocket motor production but may support supplier funding.
+   Caption: Northrop retaining ownership of its solid rocket motor capacity while opening the door for supplier investment signals a nuanced approach to scaling the munitions industrial base. Strategic capacity decisions are being made at every tier. #DefenseIndustry #AerospaceMfg #SupplyChain
+
+7. @DefenseScoop: Military power begins with industrial strength, Vice Adm. Lou Crenshaw (Ret.) writes in this new Op-Ed on the need to ad…
+   Source : X · @DefenseScoop (DefenseScoop - @defensescoop.bsky.social)  |  Relevance: 8/10
+   Link   : https://x.com/DefenseScoop/status/2024235531811381494
+   Summary: Retired Vice Adm. Lou Crenshaw argues that military power depends on strengthening the defense industrial supply chain.
+   Caption: "Military power begins with industrial strength." Vice Adm. Crenshaw's message is urgent and correct — without a healthy manufacturing base and resilient supply chains, defense readiness is a paper promise. #DefenseIndustry #SupplyChain #AerospaceMfg
+
+8. Firehawk Aerospace launches Mississippi rocket facility - DeSoto County News
+   Source : DeSoto County News  |  Relevance: 8/10
+   Link   : https://news.google.com/rss/articles/CBMipAFBVV95cUxNNF9OWi0zVUIxeEVjWEpzY0VQNXlmNlg4R2tPSHZNbnk5N0c5c3UxQVFzdk1PdlczdWJoOGhUXzRub0FtdjFxS2VlWlhRSU9MZmczU0UybkNMU0lCbjl0OGlCVGo2VlhIWVR4VklnemxHbGo4UTA5VE5xcVZIMEhvSEc4S3VhWVBQWVgyYl9YNW0wOTJxUHpmN1lLSzJvYkYxNHdBdQ?oc=5
+   Summary: Firehawk Aerospace opened a new rocket manufacturing facility in Mississippi to expand propulsion production capacity.
+   Caption: Firehawk Aerospace's new Mississippi rocket facility adds to the growing footprint of propulsion manufacturing capacity in the U.S. New entrants investing in ground-up production infrastructure is a healthy sign for the industrial base. #AerospaceMfg #DefenseIndustry #SpaceIndustry
+
+9. Sentinel ICBM program hit by software delays, Minuteman extension risks: GAO
+   Source : Defense News  |  Relevance: 8/10
+   Link   : https://www.defensenews.com/news/pentagon-congress/2026/02/18/sentinel-icbm-program-hit-by-software-delays-minuteman-extension-risks-gao/
+   Summary: The Sentinel ICBM program faces software delays while requiring replacement of over 600 facilities across five states.
+   Caption: Sentinel isn't just a weapons program — it's a 600+ facility infrastructure overhaul across five states. Software delays add risk, but the sheer scale of ground system modernization here is an industrial undertaking with few parallels. #DefenseIndustry #AerospaceMfg #SupplyChain
+
+10. China’s nuclear submarine production rate surpasses that of US: Report
+   Source : Breaking Defense  |  Relevance: 8/10
+   Link   : https://breakingdefense.com/2026/02/china-building-more-nuclear-subs-than-america-iiss-report/
+   Summary: China launched 10 submarines totaling 79,000 tonnes between 2021 and 2025, surpassing U.S. submarine production rates.
+   Caption: China outpacing U.S. submarine production is a stark industrial base comparison. This isn't about one platform — it's about sustained manufacturing throughput and the capacity to scale. The production rate gap demands urgent attention. #DefenseIndustry #AerospaceMfg #SupplyChain
+
+==============================================================
+Digest contains 10 articles. Review links and post manually.

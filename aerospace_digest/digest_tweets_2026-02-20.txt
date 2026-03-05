@@ -1,0 +1,166 @@
+X TWEET DIGEST — February 20, 2026
+Narrative: We need to scale distributed manufacturing to support innovation and development in the US — ground systems infrastructure for aerospace, basic energy infrastructure, and cryogenic infrastructure for fusion and advanced energy.
+==============================================================
+
+1. X · @QuinnyPig (Corey Quinn)
+   Tweet   : I, apparently a naive idiot, had assumed that this was what “we background check our drivers” always meant. https://t.co/urreLXRl2s
+   Link    : https://x.com/QuinnyPig/status/2024661190237151300
+   Context : Corey Quinn comments on a news story revealing that a ride-hailing or delivery company's 'background check' process was less thorough than most people assumed.
+   Reception: Massively viral at 90K+ likes+RT — broad mainstream and tech audience engagement.
+   Caption : Background checks, supply chain audits, vendor qualification — the gap between what people assume is happening and what's actually happening is where risk lives. In manufacturing, we can't afford that gap. #QualityControl #SupplyChain #Manufacturing
+
+2. X · @sama (Sam Altman)
+   Tweet   : Great meeting with PM @narendramodi today to talk about the incredible energy around AI in India.
+
+India is our fastest growing market for codex globally, up 4x  in weekly users in the past 2 weeks alone.
+
+🇮🇳! https://t.co/MRbw0UkotJ
+   Link    : https://x.com/sama/status/2024826822060290508
+   Context : Sam Altman met with Indian PM Modi and highlighted India as OpenAI's fastest-growing market for its Codex product, with 4x weekly user growth in two weeks.
+   Reception: Strong viral traction at 13K+ likes+RT — heavy engagement from global tech and AI communities.
+   Caption : India scaling AI adoption at 4x in two weeks tells you everything about global demand for compute infrastructure. Who's building the physical layer — the fabs, the power plants, the cooling systems — to keep up? #DistributedManufacturing #EnergyInfrastructure #AI
+
+3. X · @ramez (Ramez Naam)
+   Tweet   : Why no jail time? This is the election cheating you were looking for https://t.co/FJTnNGDwBf
+   Link    : https://x.com/ramez/status/2024651020224385230
+   Context : Ramez Naam shares a story about election fraud or cheating, expressing frustration at the lack of jail time for those involved.
+   Reception: Viral at ~13K likes+RT — strong political engagement across partisan lines.
+   Caption : Accountability matters — in elections, in procurement, in defense programs. When we let standards slide anywhere, the erosion spreads. #Accountability #Defense #IndustrialBase
+
+4. X · @SciGuySpace (Eric Berger)
+   Tweet   : Isaacman is such a breath of fresh air at NASA. Far too often we have been served platitudes in news conferences. Space is hard. Teams are doing their best. Proud of everyone. Blah blah. Today we are getting accountability.
+   Link    : https://x.com/SciGuySpace/status/2024573085597225109
+   Context : Eric Berger praises NASA Administrator Jared Isaacman for bringing genuine accountability and candor to NASA press conferences, breaking from the tradition of vague platitudes.
+   Reception: Strong traction at 4.5K likes+RT — deep resonance in space and defense communities.
+   Caption : This is what the aerospace industrial base has needed for years. Stop celebrating participation trophies on billion-dollar programs. Accountability drives performance — in the front office and on the shop floor. #Aerospace #NASA #Manufacturing
+
+5. X · @satyanadella (Satya Nadella)
+   Tweet   : With Copilot Studio, we are focused on adding more choice and flexibility for anyone building custom agents. Great to add Grok 4.1 Fast to our multi-model lineup.
+https://t.co/Zp95HAtpOU
+   Link    : https://x.com/satyanadella/status/2024581126719729758
+   Context : Satya Nadella announces that Microsoft's Copilot Studio is adding xAI's Grok 4.1 Fast model to its multi-model agent-building platform.
+   Reception: Solid engagement at ~3K likes+RT — enterprise tech and AI builder audience.
+   Caption : Multi-model, multi-vendor, best-tool-for-the-job. That's the same philosophy we need in manufacturing — distributed capability, interoperable systems, no single points of failure. #DistributedManufacturing #AI #DefenseTech
+
+6. X · @SciGuySpace (Eric Berger)
+   Tweet   : Worth reading in its entirety. I'm not sure I've seen this kind of accountability taken at NASA since, well, since I'm not sure when. https://t.co/8ykrkL91Qt
+   Link    : https://x.com/SciGuySpace/status/2024561725039669385
+   Context : Eric Berger highlights an internal NASA accountability report, noting it's unprecedented in recent memory for the agency to be this self-critical.
+   Reception: Strong engagement at 2.3K likes+RT — aerospace insiders and space policy audience.
+   Caption : Accountability at NASA is a signal to every prime and subcontractor in the chain. When the customer starts holding themselves accountable, the entire supply base has to level up. This is how you rebuild an industrial base. #Aerospace #SupplyChain #NASA
+
+7. X · @SciGuySpace (Eric Berger)
+   Tweet   : The easy thing to do—the expected thing, really—would have been for NASA to sweep this report under the rug, declare Starliner-CFT a great learning experience, and say everything is going well. NASA did not do the easy thing.
+
+https://t.co/yNN1rRnLYi
+   Link    : https://x.com/SciGuySpace/status/2024607909535952998
+   Context : Eric Berger discusses NASA's decision to release a candid report on the Starliner crew flight test rather than downplaying the program's issues, calling it a departure from institutional norms.
+   Reception: Strong engagement at ~1.8K likes+RT — aerospace and defense policy audience.
+   Caption : NASA chose the hard thing over the easy thing on Starliner. That same honesty needs to extend to our manufacturing capacity gaps. We can't build the next generation of crewed systems on a hollowed-out industrial base. #Aerospace #Starliner #Manufacturing
+
+8. X · @chamath (Chamath Palihapitiya)
+   Tweet   : https://t.co/nSEqYtW4Rf
+   Link    : https://x.com/chamath/status/2024542359611134253
+   Context : Chamath Palihapitiya shares a link (likely a video, article, or chart) without additional commentary.
+   Reception: Solid traction at ~1.6K likes+RT — Chamath's broad investor/tech following engaging on signal alone.
+   Caption : Skipping — insufficient context to craft a substantive response.
+
+9. X · @JTLonsdale (Joe Lonsdale)
+   Tweet   : @EYakoby Another reason we allow guns.
+   Link    : https://x.com/JTLonsdale/status/2024656539210899651
+   Context : Joe Lonsdale responds to a post (likely about a security or self-defense incident) by connecting it to Second Amendment gun rights.
+   Reception: Moderate engagement at 752 likes+RT — politically engaged audience.
+   Caption : Skipping — political topic outside the executive's lane.
+
+10. X · @chamath (Chamath Palihapitiya)
+   Tweet   : @kevinnbass Will watch for sure but I’m not on this week - ski week. ⛷️
+   Link    : https://x.com/chamath/status/2024582873643438103
+   Context : Chamath Palihapitiya casually responds that he'll watch a podcast or show but is out for ski week.
+   Reception: Minimal engagement at 242 likes+RT — conversational noise from a high-follower account.
+   Caption : Skipping — no substantive hook.
+
+11. X · @pmarca (Marc Andreessen 🇺🇸)
+   Tweet   : #JeSuisPaul https://t.co/qpbiwokngM
+   Link    : https://x.com/pmarca/status/2024677346884936123
+   Context : Marc Andreessen posts a solidarity hashtag (#JeSuisPaul) in support of someone named Paul, likely related to a controversy or public dispute.
+   Reception: Modest engagement at 208 likes+RT — insider political/tech audience.
+   Caption : Skipping — insufficient context and politically charged.
+
+12. X · @JTLonsdale (Joe Lonsdale)
+   Tweet   : @Sarahhuniverse @archeohistories UN clowns clapping for a socialist mass murderer is on brand
+   Link    : https://x.com/JTLonsdale/status/2024663450631184503
+   Context : Joe Lonsdale criticizes the United Nations for applauding a socialist leader he characterizes as a mass murderer.
+   Reception: Niche engagement at 164 likes+RT — politically aligned audience.
+   Caption : Skipping — geopolitical opinion piece outside manufacturing lane.
+
+13. X · @traestephens (Trae Stephens)
+   Tweet   : @Jason @WIRED Methinks thou doth protest too much
+   Link    : https://x.com/traestephens/status/2024563108300108014
+   Context : Trae Stephens responds to a WIRED-related discussion with a quip suggesting someone is protesting too much about a critique or controversy.
+   Reception: Minimal engagement at 88 likes+RT — defense tech insider chatter.
+   Caption : Skipping — reply thread without enough substance to anchor commentary.
+
+14. X · @packyM (Packy McCormick)
+   Tweet   : I thought I was the only one living in the Venn Diagram of Soviet papers from the 50s and buried research on consciousness. Incredible. https://t.co/2bUt2PAaVR
+   Link    : https://x.com/packyM/status/2024778004669321300
+   Context : Packy McCormick expresses excitement about discovering someone else researching the intersection of Soviet-era scientific papers and consciousness studies.
+   Reception: Niche engagement at 82 likes+RT — intellectual curiosity audience.
+   Caption : There's a treasure trove of Soviet-era materials science, cryogenics, and manufacturing research that never got commercialized. The IP is out there — we just need the industrial base to turn it into hardware. #DeepTech #Manufacturing #Innovation
+
+15. X · @mzjacobson (Mark Z. Jacobson)
+   Tweet   : 27th of 49 days in 2026 with &gt;100% WindWaterSolar on the @CaliforniaISO grid.
+
+Gas own 54% in vs 2024 and 56% vs 2023
+Batteries up 54% vs 2024 and 301% vs 2023
+PV up 38% vs 2024 and 56% vs 2023
+
+PV+Batteries displacing gas
+
+Imports up too: These are ~58% WWS https://t.co/WT7VfSpglL
+   Link    : https://x.com/mzjacobson/status/2024556758270955888
+   Context : Mark Jacobson reports that California's grid hit 100%+ wind/water/solar generation on 27 of 49 days in 2026, with battery storage up 301% vs 2023 and gas generation declining sharply.
+   Reception: Niche but relevant at 69 likes+RT — clean energy and grid infrastructure audience.
+   Caption : Batteries up 301% in two years. PV displacing gas. This is a manufacturing story — someone has to build, install, and maintain all of this at scale. The energy transition runs through the factory floor. #EnergyInfrastructure #Manufacturing #CleanEnergy
+
+16. X · @JesseJenkins (Jesse D. Jenkins)
+   Tweet   : The urban geothermal boom reshaping how cities heat and cool  https://t.co/ps0xP8TPPz
+   Link    : https://x.com/JesseJenkins/status/2024640741864013935
+   Context : Jesse Jenkins shares an article about the growing adoption of geothermal heating and cooling systems in urban areas.
+   Reception: Niche engagement at 64 likes+RT — energy policy and clean tech audience.
+   Caption : Urban geothermal is a massive infrastructure buildout hiding in plain sight. Drilling, piping, heat exchangers — all manufactured goods, all needing domestic supply chains. This is exactly the kind of basic energy infrastructure we should be scaling. #Geothermal #EnergyInfrastructure #Manufacturing
+
+17. X · @ttunguz (Tomasz Tunguz)
+   Tweet   : 9 observations from a year building AI agents :
+
+1. Prototype with the Best
+When the input is unpredictable—email parsing, voice transcription, messy data extraction—reach for state-of-the-art. Figure out what works with the best models, then specialize over time.
+
+2. Polish https://t.co/OqPZ7aICa2
+   Link    : https://x.com/ttunguz/status/2024631920563196175
+   Context : Tomasz Tunguz shares nine practical observations from a year of building AI agents, covering model selection, iteration, and deployment strategies.
+   Reception: Moderate engagement at 58 likes+RT — enterprise software and AI builder audience.
+   Caption : "Prototype with the best, then specialize." Same applies to manufacturing. Start with the most capable processes, prove the design, then optimize for production scale and cost. AI agents and factory floors have more in common than people think. #AIAgents #Manufacturing #DefenseTech
+
+18. X · @ramez (Ramez Naam)
+   Tweet   : In retrospect, we'll find that the first Terrawatt-hour was the hardest. https://t.co/d2w3BFSy9D
+   Link    : https://x.com/ramez/status/2024653366224441853
+   Context : Ramez Naam reflects on the milestone of the first terawatt-hour of clean energy storage or generation, suggesting the hardest part is behind us and scale will accelerate.
+   Reception: Modest engagement at 52 likes+RT — energy transition and climate tech audience.
+   Caption : The first terawatt-hour is a manufacturing breakthrough, not just an energy one. Every TWh after this gets cheaper because we figured out how to build the machines that build the machines. That's the real inflection point. #EnergyInfrastructure #Manufacturing #ScaleUp
+
+19. X · @QuinnyPig (Corey Quinn)
+   Tweet   : "Why is my boss toying with replacing me with AI? What the hell does AI do that I don't?" https://t.co/gtYYGqGbPT
+   Link    : https://x.com/QuinnyPig/status/2024570855905513853
+   Context : Corey Quinn shares a humorous or satirical take on workers questioning why their employer is considering replacing them with AI tools.
+   Reception: Modest engagement at 48 likes+RT — tech worker and ops audience.
+   Caption : AI isn't replacing machinists, welders, or cryogenic technicians anytime soon. The bottleneck in aerospace and energy isn't automation — it's having enough skilled people and physical capacity to meet demand. Build the workforce, build the factories. #Manufacturing #Workforce #Aerospace
+
+20. X · @ramez (Ramez Naam)
+   Tweet   : No political leader should be above the law https://t.co/URxgkJHbaI
+   Link    : https://x.com/ramez/status/2024643633199403085
+   Context : Ramez Naam shares a story asserting that no political leader should be immune from legal accountability.
+   Reception: Minimal engagement at 42 likes+RT — political audience.
+   Caption : Skipping — political commentary outside the executive's lane.
+
+==============================================================
+20 tweets · sorted by engagement · review before posting.
