@@ -1,0 +1,5 @@
+# ignore all .env files in all directories
+**/.env
+# ignore all .env files in the root directory
+.env
+aerospace_digest/.env
